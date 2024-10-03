@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\remen\\source\\repos\\LoginStudentVotingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E442B935-3CD0-425A-A84B-66E45A17EDDF}|LoginStudentVotingSystem.csproj|c:\\users\\remen\\source\\repos\\loginstudentvotingsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E442B935-3CD0-425A-A84B-66E45A17EDDF}|LoginStudentVotingSystem.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E442B935-3CD0-425A-A84B-66E45A17EDDF}|LoginStudentVotingSystem.csproj|C:\\Users\\remen\\source\\repos\\LoginStudentVotingSystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E442B935-3CD0-425A-A84B-66E45A17EDDF}|LoginStudentVotingSystem.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E442B935-3CD0-425A-A84B-66E45A17EDDF}|LoginStudentVotingSystem.csproj|c:\\users\\remen\\source\\repos\\loginstudentvotingsystem\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E442B935-3CD0-425A-A84B-66E45A17EDDF}|LoginStudentVotingSystem.csproj|solutionrelative:signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E442B935-3CD0-425A-A84B-66E45A17EDDF}|LoginStudentVotingSystem.csproj|c:\\users\\remen\\source\\repos\\loginstudentvotingsystem\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E442B935-3CD0-425A-A84B-66E45A17EDDF}|LoginStudentVotingSystem.csproj|solutionrelative:signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E442B935-3CD0-425A-A84B-66E45A17EDDF}|LoginStudentVotingSystem.csproj|C:\\Users\\remen\\source\\repos\\LoginStudentVotingSystem\\globalprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E442B935-3CD0-425A-A84B-66E45A17EDDF}|LoginStudentVotingSystem.csproj|solutionrelative:globalprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E442B935-3CD0-425A-A84B-66E45A17EDDF}|LoginStudentVotingSystem.csproj|C:\\Users\\remen\\source\\repos\\LoginStudentVotingSystem\\dashboardform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E442B935-3CD0-425A-A84B-66E45A17EDDF}|LoginStudentVotingSystem.csproj|solutionrelative:dashboardform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E442B935-3CD0-425A-A84B-66E45A17EDDF}|LoginStudentVotingSystem.csproj|C:\\Users\\remen\\source\\repos\\LoginStudentVotingSystem\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E442B935-3CD0-425A-A84B-66E45A17EDDF}|LoginStudentVotingSystem.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "signup.xaml",
+              "DocumentMoniker": "C:\\Users\\remen\\source\\repos\\LoginStudentVotingSystem\\signup.xaml",
+              "RelativeDocumentMoniker": "signup.xaml",
+              "ToolTip": "C:\\Users\\remen\\source\\repos\\LoginStudentVotingSystem\\signup.xaml",
+              "RelativeToolTip": "signup.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-03T06:59:30.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalProcedure.cs",
+              "DocumentMoniker": "C:\\Users\\remen\\source\\repos\\LoginStudentVotingSystem\\GlobalProcedure.cs",
+              "RelativeDocumentMoniker": "GlobalProcedure.cs",
+              "ToolTip": "C:\\Users\\remen\\source\\repos\\LoginStudentVotingSystem\\GlobalProcedure.cs",
+              "RelativeToolTip": "GlobalProcedure.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:32:15.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\remen\\source\\repos\\LoginStudentVotingSystem\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\remen\\source\\repos\\LoginStudentVotingSystem\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-01T03:38:57.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\remen\\source\\repos\\LoginStudentVotingSystem\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\remen\\source\\repos\\LoginStudentVotingSystem\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAIwJsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T03:38:56.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "signup.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\remen\\source\\repos\\LoginStudentVotingSystem\\signup.xaml.cs",
+              "RelativeDocumentMoniker": "signup.xaml.cs",
+              "ToolTip": "C:\\Users\\remen\\source\\repos\\LoginStudentVotingSystem\\signup.xaml.cs",
+              "RelativeToolTip": "signup.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:01:02.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardForm.xaml",
+              "DocumentMoniker": "C:\\Users\\remen\\source\\repos\\LoginStudentVotingSystem\\DashboardForm.xaml",
+              "RelativeDocumentMoniker": "DashboardForm.xaml",
+              "ToolTip": "C:\\Users\\remen\\source\\repos\\LoginStudentVotingSystem\\DashboardForm.xaml",
+              "RelativeToolTip": "DashboardForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-02T14:11:44.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\remen\\source\\repos\\LoginStudentVotingSystem\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\remen\\source\\repos\\LoginStudentVotingSystem\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-02T10:32:29.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
